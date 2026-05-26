@@ -4,57 +4,21 @@ This project scrapes public email addresses from YouTube channel pages using Api
 
 ## Screenshots
 
-Add your dashboard screenshots here.
-
 ### Dashboard Overview
 
-```text
-Place dashboard overview screenshot here.
-```
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/19c5fcd6-a60e-4362-a184-f1afca9a968f" />
 
-### Frontend Scraper Form
-
-```text
-Place frontend scraper screenshot here.
-```
 
 ### Email Validation Results
 
-```text
-Place validation results screenshot here.
-```
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cb517beb-dcf2-4e2a-8a64-25e12d1ea312" />
+
 
 ## Bouncify Results
 
 Add your Bouncify dashboard screenshots here.
 
-### Bouncify Bulk Verification
-
-```text
-Place Bouncify bulk verification screenshot here.
-```
-
-### Bouncify Email Result
-
-```text
-Place Bouncify email result screenshot here.
-```
-
-## Sample Results
-
-Add example output screenshots or CSV previews here.
-
-### Valid Emails CSV
-
-```text
-Place valid email CSV screenshot or sample rows here.
-```
-
-### Dual Validation CSV
-
-```text
-Place dual validation CSV screenshot or sample rows here.
-```
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fedf13fd-e796-49f3-8746-f7a8e2c40ad4" />
 
 ## Features
 
