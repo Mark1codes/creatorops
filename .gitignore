@@ -1,0 +1,15 @@
+.env
+verified_youtube_creators.csv
+all_bouncify_checks.csv
+apify_raw_results.json
+bouncify_bulk_jobs.csv
+bouncify_upload.csv
+dual_validation_results.csv
+last_frontend_scrape.json
+scrape_history.json
+__pycache__/
+*.pyc
+node_modules/
+.next/
+out/
+npm-debug.log*
